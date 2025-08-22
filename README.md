@@ -71,10 +71,15 @@ I engineered **8 OCR features** to measure contribution:
 
 ## 📂 Project Structure  
 ├── 📁 Data Files
+
 │ ├── lime_fixed_analysis_data.json
+
 │ ├── shap_analysis_data.json
+
 │ └── combined_analysis_data.json
+
 ├── 📁 Reports
+
 │ └── comprehensive_ocr_xai_report.md
 
 
